@@ -9,7 +9,7 @@ CS undergrad exploring full-stack development, AI, and DevOps.
 - 🧠 Familiar with AI, NLP, and Deep Learning concepts
 - 📊 Experience in data preprocessing, feature engineering, and model optimization
 - ☁️ Exploring DevOps practices including CI/CD, Docker, and cloud workflows
-- 🧪 Research exposure in Machine Learning and Computer Vision
+- 🧪 Research exposure in Machine Learning 
 - 📈 Solved 200+ problems on LeetCode
 - 🤝 Open to collaboration on Web, ML, AI, and DevOps projects
 
