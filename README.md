@@ -1,36 +1,23 @@
+# Hello, world 👋
+
+CS undergrad exploring full-stack development, AI, and DevOps.
+
+- 🎓 B.Tech CSE student (2023–2027)
+- 💻 Strong in DSA and core computer science fundamentals
+- 🌐 Full-stack development experience with the MERN stack
+- 🤖 Worked on Machine Learning models for real-world classification tasks
+- 🧠 Familiar with AI, NLP, and Deep Learning concepts
+- 📊 Experience in data preprocessing, feature engineering, and model optimization
+- ☁️ Exploring DevOps practices including CI/CD, Docker, and cloud workflows
+- 🧪 Research exposure in Machine Learning and Computer Vision
+- 📈 Solved 200+ problems on LeetCode
+- 🤝 Open to collaboration on Web, ML, AI, and DevOps projects
 
 ---
 
-# Welcome to My GitHub! 👋
+## 🔗 Connect with me
 
-Hi! I’m **Bapa Rao Pendyala**, a B.Tech CSE student at **SRM AP** driven by building efficient, scalable solutions.
-
----
-
-## 🌟 About Me
-- 🎓 **B.Tech CSE** @ SRM AP  
-- 🌐 **Interests**: Cloud Computing, Software Engineering, Machine Learning  
-- 🔧 **Tech Stack**:  
-  - **Languages**: C++, Java, JavaScript, Python  
-  - **Web**: HTML, CSS, JS, **React** (learning)   
-  - **Core**: DSA, DBMS, ML, Computer Networks, Operating Systems
-- 🧠 **Problem Solving**: 200+ LeetCode problems — [leetcode.com/u/baparao15](https://leetcode.com/u/baparao15)
-
----
-
-## 🚀 Projects
-🔹 **Maritime Incident Classification System**  
-Python • pandas • scikit-learn • Random-Forest • SVM 
-- Implemented comprehensive data preprocessing pipelines and feature engineering techniques for optimal model performance.
-- End-to-end ML pipeline that predicts incident types from 50 k+ historic shipping records + weather & AIS features.  
-
-🔹 **Seva Portal – Government Service Platform**  
-MERN Stack (MongoDB, Express, React, Node)  
-- One-stop citizen portal: Role-based dashboards (citizen/ admin).  
-- Service-request tracker with doc upload, real-time status.
-
----
-
-## 📫 Let’s Connect
-- **LinkedIn**: [linkedin.com/in/bapa-rao-pendyala](https://www.linkedin.com/in/bapa-rao-pendyala)  
-- **Email**: [baparao2005@gmail.com](mailto:baparao2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bapa-rao-pendyala/)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baparao15)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/baparao15/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baparao2005@gmail.com)
